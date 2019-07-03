@@ -8,6 +8,7 @@ First of all tightvncserver must be installed, it already preinstall in Kali Lin
 #### <code>apt-get install tightvncserver</code>
 And Then
 #### <code>git clone https://github.com/febripranata/kalivncsetup.git</code>
+#### <code>cd kalivncsetup</code>
 give executable permission.
 #### <code> chmod +x setup.sh </code>
 Run it and follow instructions.
