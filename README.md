@@ -1,4 +1,4 @@
-# kali Linux Raspberry VNC Server Setup
+# kali Linux Raspberry Pi VNC Server Setup Autostart Session
 ## Summary
 This script will auto setup vncserver, VNC server will auto start on boot in Kali Linux Raspberry Pi 3B/B+ and Raspberry Pi Zero W for VNC session
 ## Features 
