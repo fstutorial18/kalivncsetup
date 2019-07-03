@@ -13,3 +13,5 @@ give executable permission.
 #### <code> chmod +x setup.sh </code>
 Run it and follow instructions.
 #### <code>./setup.sh</code>
+
+## Enjoy..!
