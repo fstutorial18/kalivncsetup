@@ -14,4 +14,6 @@ give executable permission.
 Run it and follow instructions.
 #### <code>./setup.sh</code>
 ## Done!!
-Enjoy!!
+
+### Video Tutorial
+[![Raspberry Pi VNC Server Auto Starter Tutorial Youtube](https://www.youtube.com/watch?v=R6363g77ukA.jpg)](https://www.youtube.com/watch?v=R6363g77ukA)
