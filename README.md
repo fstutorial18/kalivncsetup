@@ -14,5 +14,4 @@ give executable permission.
 Run it and follow instructions.
 #### <code>./setup.sh</code>
 ## Done!!
-
-## Enjoy..!
+Enjoy!!
