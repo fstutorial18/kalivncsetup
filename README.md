@@ -6,7 +6,7 @@ Auto configured VNC server for remote session for RPI Kali Linux, auto start VNC
 ## How to setup?
 First of all tightvncserver must be installed, it already preinstall in Kali Linux ARM.
 #### <code>apt-get install tightvncserver</code>
-And Then
+And Then.
 #### <code>git clone https://github.com/febripranata/kalivncsetup.git</code>
 #### <code>cd kalivncsetup</code>
 give executable permission.
