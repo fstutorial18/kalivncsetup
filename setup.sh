@@ -40,9 +40,9 @@ read -p "Apakah Kamu Mau Ganti Password VNC Server? [Y/N ] " tc_vncpass
 		vncpasswd 
 	fi
 fi
-echo "Langkah 1: Membuat autostart script untuk VNC session..."
-read -p "Masukan Resolusi display yang kamu mau untuk VNC session (i.e. 800x600, 1024x768, 1280x720):- " tc_server
-read -p "Masukan depth untuk VNC session (i.e. 16, 24, 32):- " tc_depth
+echo "Langkah 1: Membuat Autostart Script Untuk VNC session..."
+read -p "Masukan Resolusi Display Yang Kamu Mau Untuk VNC Session (i.e. 1024x768, 1280x720):- " tc_server
+read -p "Masukan depth Untuk VNC session (i.e. 16, 24, 32):- " tc_depth
 cd /etc/init.d/
 if [ -f FSTutorialvncsetup ]
 then
